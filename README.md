@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Game Development Jobs — 2026
 
-<sub><small>Last updated: Oct 7, 2026 at 18:56 UTC</small></sub>
+<sub><small>Last updated: Oct 12, 2026 at 21:16 UTC</small></sub>
 
 Daily remote game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs).
@@ -12,6 +12,10 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Xsolla](https://jobsingames.com/jobs/xsolla-developer-experience-event-manager-96368788?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Developer Experience Event Manager](https://jobsingames.com/jobs/xsolla-developer-experience-event-manager-96368788?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 10 |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Game Application Security Analyst](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 9 |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-tableau-developer-people-analytics-contract-01a4efc9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Tableau Developer, People Analytics (Contract)](https://jobsingames.com/jobs/playstation-tableau-developer-people-analytics-contract-01a4efc9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Contract | Oct 9 |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-gameplay-animator-80e1f9a2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Gameplay Animator](https://jobsingames.com/jobs/playstation-senior-gameplay-animator-80e1f9a2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 8 |
 | **[New Moon Production](https://jobsingames.com/jobs/new-moon-production-aso-manager-big-franchise-3ab46d33?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[ASO Manager - BIG Franchise](https://jobsingames.com/jobs/new-moon-production-aso-manager-big-franchise-3ab46d33?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 4 |
 | **[Voodoo](https://jobsingames.com/jobs/voodoo-game-lead-crazy-kick-ccc49fcc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Game Lead - Crazy Kick](https://jobsingames.com/jobs/voodoo-game-lead-crazy-kick-ccc49fcc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 4 |
 | **[kaleidoscube](https://jobsingames.com/jobs/kaleidoscube-gameplay-polish-and-technical-designer-artist-107f5632?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Gameplay Polish & Technical Designer/Artist](https://jobsingames.com/jobs/kaleidoscube-gameplay-polish-and-technical-designer-artist-107f5632?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 4 |
@@ -23,17 +27,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[Wooga](https://jobsingames.com/jobs/wooga-senior-ui-ux-designer-new-games-1-year-contract-584a72de?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior UI/UX Designer - New Games (1-year contract)](https://jobsingames.com/jobs/wooga-senior-ui-ux-designer-new-games-1-year-contract-584a72de?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Contract | Sep 27 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-community-manager-contract-d21c5c9b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Community Manager (CONTRACT)](https://jobsingames.com/jobs/playstation-community-manager-contract-d21c5c9b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Contract | Sep 25 |
 | **[SOFTGAMES](https://jobsingames.com/jobs/softgames-game-industry-sourcing-recruiter-d7db7a6b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Game Industry Sourcing Recruiter](https://jobsingames.com/jobs/softgames-game-industry-sourcing-recruiter-d7db7a6b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Sep 20 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-ui-engineering-lead-33c3eb0c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[UI Engineering Lead](https://jobsingames.com/jobs/playstation-ui-engineering-lead-33c3eb0c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Sep 14 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-gameplay-animator-2c5b46aa?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Gameplay Animator](https://jobsingames.com/jobs/playstation-senior-gameplay-animator-2c5b46aa?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Sep 9 |
 
 ---
 
-**Current Stats:** 13 jobs | 100% remote | 7 companies | 0 salary ranges listed
+**Current Stats:** 15 jobs | 100% remote | 8 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-07 archive](archive/2026-10-07.md)
+- [2026-10-12 archive](archive/2026-10-12.md)
 
 ## About This Repository
 
