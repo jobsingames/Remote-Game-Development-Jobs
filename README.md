@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Game Development Jobs — 2026
 
-<sub><small>Last updated: Oct 13, 2026 at 19:14 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2026 at 16:56 UTC</small></sub>
 
 Daily remote game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-marketing-technologies-director-db5897a7?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Marketing Technologies Director](https://jobsingames.com/jobs/playstation-marketing-technologies-director-db5897a7?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 13 |
 | **[Xsolla](https://jobsingames.com/jobs/xsolla-developer-experience-event-manager-96368788?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Developer Experience Event Manager](https://jobsingames.com/jobs/xsolla-developer-experience-event-manager-96368788?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 10 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Game Application Security Analyst](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 9 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-tableau-developer-people-analytics-contract-01a4efc9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Tableau Developer, People Analytics (Contract)](https://jobsingames.com/jobs/playstation-tableau-developer-people-analytics-contract-01a4efc9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Contract | Oct 9 |
@@ -30,12 +31,12 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 ---
 
-**Current Stats:** 15 jobs | 100% remote | 8 companies | 0 salary ranges listed
+**Current Stats:** 16 jobs | 100% remote | 8 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-13 archive](archive/2026-10-13.md)
+- [2026-10-15 archive](archive/2026-10-15.md)
 
 ## About This Repository
 
