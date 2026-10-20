@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Game Development Jobs — 2026
 
-<sub><small>Last updated: Oct 15, 2026 at 16:56 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
 
 Daily remote game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-manager-amer-operations-e8743d69?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Manager, AMER Operations](https://jobsingames.com/jobs/playstation-senior-manager-amer-operations-e8743d69?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 19 |
+| **[Just2D Interactive GmbH](https://jobsingames.com/jobs/just2d-interactive-gmbh-combat-designer-2d-pixel-art-open-world-rpg-f8c89917?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Combat-Designer (2D-Pixel-Art-Open-World-RPG)](https://jobsingames.com/jobs/just2d-interactive-gmbh-combat-designer-2d-pixel-art-open-world-rpg-f8c89917?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 18 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-marketing-technologies-director-db5897a7?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Marketing Technologies Director](https://jobsingames.com/jobs/playstation-marketing-technologies-director-db5897a7?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 13 |
 | **[Xsolla](https://jobsingames.com/jobs/xsolla-developer-experience-event-manager-96368788?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Developer Experience Event Manager](https://jobsingames.com/jobs/xsolla-developer-experience-event-manager-96368788?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 10 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Game Application Security Analyst](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 9 |
@@ -27,16 +29,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[1mvq Hxat Xp 6ogtfr Lm0g Rz Gd Jqyx5q8mh Px4l Zeck I](https://jobsingames.com/jobs/1mvq-hxat-xp-6ogtfr-lm0g-rz-gd-jqyx5q8mh-px4l-zeck-i-senior-ui-ux-designer-new-games-1-year-contract-eb565774?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior UI/UX Designer - New Games (1-year contract)](https://jobsingames.com/jobs/1mvq-hxat-xp-6ogtfr-lm0g-rz-gd-jqyx5q8mh-px4l-zeck-i-senior-ui-ux-designer-new-games-1-year-contract-eb565774?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Contract | Sep 27 |
 | **[Wooga](https://jobsingames.com/jobs/wooga-senior-ui-ux-designer-new-games-1-year-contract-584a72de?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior UI/UX Designer - New Games (1-year contract)](https://jobsingames.com/jobs/wooga-senior-ui-ux-designer-new-games-1-year-contract-584a72de?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Contract | Sep 27 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-community-manager-contract-d21c5c9b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Community Manager (CONTRACT)](https://jobsingames.com/jobs/playstation-community-manager-contract-d21c5c9b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Contract | Sep 25 |
-| **[SOFTGAMES](https://jobsingames.com/jobs/softgames-game-industry-sourcing-recruiter-d7db7a6b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Game Industry Sourcing Recruiter](https://jobsingames.com/jobs/softgames-game-industry-sourcing-recruiter-d7db7a6b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Sep 20 |
 
 ---
 
-**Current Stats:** 16 jobs | 100% remote | 8 companies | 0 salary ranges listed
+**Current Stats:** 17 jobs | 100% remote | 8 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-15 archive](archive/2026-10-15.md)
+- [2026-10-20 archive](archive/2026-10-20.md)
 
 ## About This Repository
 
