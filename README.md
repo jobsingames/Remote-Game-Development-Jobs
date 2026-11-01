@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Game Development Jobs — 2026
 
-<sub><small>Last updated: Oct 31, 2026 at 17:14 UTC</small></sub>
+<sub><small>Last updated: Nov 1, 2026 at 17:55 UTC</small></sub>
 
 Daily remote game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[tobspr games](https://jobsingames.com/jobs/tobspr-games-level-designer-d632e436?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Level Designer](https://jobsingames.com/jobs/tobspr-games-level-designer-d632e436?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Nov 1 |
 | **[weltenbauer. Software Entwicklung GmbH](https://jobsingames.com/jobs/weltenbauer-software-entwicklung-gmbh-producer-7cbf93c4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Producer](https://jobsingames.com/jobs/weltenbauer-software-entwicklung-gmbh-producer-7cbf93c4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
 | **[Voodoo](https://jobsingames.com/jobs/voodoo-senior-qa-tester-paper-io-2-1051fa95?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior QA Tester - Paper.io 2](https://jobsingames.com/jobs/voodoo-senior-qa-tester-paper-io-2-1051fa95?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
 | **[tobspr games](https://jobsingames.com/jobs/tobspr-games-principal-c-engineer-60f2285e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Principal C++ Engineer](https://jobsingames.com/jobs/tobspr-games-principal-c-engineer-60f2285e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
@@ -31,21 +32,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Game Application Security Analyst](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 9 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-tableau-developer-people-analytics-contract-01a4efc9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Tableau Developer, People Analytics (Contract)](https://jobsingames.com/jobs/playstation-tableau-developer-people-analytics-contract-01a4efc9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Contract | Oct 9 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-gameplay-animator-80e1f9a2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Gameplay Animator](https://jobsingames.com/jobs/playstation-senior-gameplay-animator-80e1f9a2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 8 |
-| **[New Moon Production](https://jobsingames.com/jobs/new-moon-production-aso-manager-big-franchise-3ab46d33?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[ASO Manager - BIG Franchise](https://jobsingames.com/jobs/new-moon-production-aso-manager-big-franchise-3ab46d33?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 4 |
-| **[Voodoo](https://jobsingames.com/jobs/voodoo-game-lead-crazy-kick-ccc49fcc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Game Lead - Crazy Kick](https://jobsingames.com/jobs/voodoo-game-lead-crazy-kick-ccc49fcc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 4 |
-| **[kaleidoscube](https://jobsingames.com/jobs/kaleidoscube-gameplay-polish-and-technical-designer-artist-107f5632?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Gameplay Polish & Technical Designer/Artist](https://jobsingames.com/jobs/kaleidoscube-gameplay-polish-and-technical-designer-artist-107f5632?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 4 |
-| **[Voodoo](https://jobsingames.com/jobs/voodoo-senior-level-designer-hole-io-04b4bbeb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Level Designer - Hole.io](https://jobsingames.com/jobs/voodoo-senior-level-designer-hole-io-04b4bbeb?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 4 |
-| **[Voodoo](https://jobsingames.com/jobs/voodoo-senior-game-designer-mob-control-6943deff?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Game Designer - Mob Control](https://jobsingames.com/jobs/voodoo-senior-game-designer-mob-control-6943deff?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 4 |
-| **[Voodoo](https://jobsingames.com/jobs/voodoo-senior-game-designer-multiplayer-gameplay-modes-paper-io-2-521e438f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Game Designer (Multiplayer Gameplay Modes) - Paper.io 2](https://jobsingames.com/jobs/voodoo-senior-game-designer-multiplayer-gameplay-modes-paper-io-2-521e438f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 4 |
 
 ---
 
-**Current Stats:** 25 jobs | 100% remote | 11 companies | 0 salary ranges listed
+**Current Stats:** 20 jobs | 100% remote | 9 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-31 archive](archive/2026-10-31.md)
+- [2026-11-01 archive](archive/2026-11-01.md)
 
 ## About This Repository
 
