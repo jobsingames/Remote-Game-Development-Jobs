@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Game Development Jobs — 2026
 
-<sub><small>Last updated: Nov 1, 2026 at 17:55 UTC</small></sub>
+<sub><small>Last updated: Nov 8, 2026 at 17:55 UTC</small></sub>
 
 Daily remote game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs).
@@ -12,6 +12,11 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[tobspr games](https://jobsingames.com/jobs/tobspr-games-senior-networking-engineer-816a701e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Networking Engineer](https://jobsingames.com/jobs/tobspr-games-senior-networking-engineer-816a701e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Nov 8 |
+| **[Nitrado](https://jobsingames.com/jobs/nitrado-site-reliability-engineer-m-w-d-gamefabric-ccf5b3de?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Site Reliability Engineer (m/w/d) GameFabric](https://jobsingames.com/jobs/nitrado-site-reliability-engineer-m-w-d-gamefabric-ccf5b3de?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Nov 8 |
+| **[Nitrado](https://jobsingames.com/jobs/nitrado-site-reliability-engineer-m-w-d-b2c-a979a7d7?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Site Reliability Engineer (m/w/d) B2C](https://jobsingames.com/jobs/nitrado-site-reliability-engineer-m-w-d-b2c-a979a7d7?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Nov 8 |
+| **[tobspr games](https://jobsingames.com/jobs/tobspr-games-level-designer-5c715d10?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Level Designer](https://jobsingames.com/jobs/tobspr-games-level-designer-5c715d10?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Nov 8 |
+| **[thatgamecompany](https://jobsingames.com/jobs/thatgamecompany-trust-and-safety-analyst-contract-3a64d0c5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Trust and Safety Analyst (Contract)](https://jobsingames.com/jobs/thatgamecompany-trust-and-safety-analyst-contract-3a64d0c5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - US | Remote | Contract | Nov 3 |
 | **[tobspr games](https://jobsingames.com/jobs/tobspr-games-level-designer-d632e436?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Level Designer](https://jobsingames.com/jobs/tobspr-games-level-designer-d632e436?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Nov 1 |
 | **[weltenbauer. Software Entwicklung GmbH](https://jobsingames.com/jobs/weltenbauer-software-entwicklung-gmbh-producer-7cbf93c4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Producer](https://jobsingames.com/jobs/weltenbauer-software-entwicklung-gmbh-producer-7cbf93c4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
 | **[Voodoo](https://jobsingames.com/jobs/voodoo-senior-qa-tester-paper-io-2-1051fa95?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior QA Tester - Paper.io 2](https://jobsingames.com/jobs/voodoo-senior-qa-tester-paper-io-2-1051fa95?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
@@ -27,11 +32,6 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-manager-amer-operations-e8743d69?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Manager, AMER Operations](https://jobsingames.com/jobs/playstation-senior-manager-amer-operations-e8743d69?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 19 |
 | **[Just2D Interactive GmbH](https://jobsingames.com/jobs/just2d-interactive-gmbh-combat-designer-2d-pixel-art-open-world-rpg-f8c89917?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Combat-Designer (2D-Pixel-Art-Open-World-RPG)](https://jobsingames.com/jobs/just2d-interactive-gmbh-combat-designer-2d-pixel-art-open-world-rpg-f8c89917?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 18 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-staff-software-engineer-data-1a062702?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Staff Software Engineer – Data](https://jobsingames.com/jobs/playstation-staff-software-engineer-data-1a062702?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 16 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-marketing-technologies-director-db5897a7?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Marketing Technologies Director](https://jobsingames.com/jobs/playstation-marketing-technologies-director-db5897a7?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 13 |
-| **[Xsolla](https://jobsingames.com/jobs/xsolla-developer-experience-event-manager-96368788?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Developer Experience Event Manager](https://jobsingames.com/jobs/xsolla-developer-experience-event-manager-96368788?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 10 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Game Application Security Analyst](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 9 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-tableau-developer-people-analytics-contract-01a4efc9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Tableau Developer, People Analytics (Contract)](https://jobsingames.com/jobs/playstation-tableau-developer-people-analytics-contract-01a4efc9?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Contract | Oct 9 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-gameplay-animator-80e1f9a2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Gameplay Animator](https://jobsingames.com/jobs/playstation-senior-gameplay-animator-80e1f9a2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 8 |
 
 ---
 
@@ -40,7 +40,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-01 archive](archive/2026-11-01.md)
+- [2026-11-08 archive](archive/2026-11-08.md)
 
 ## About This Repository
 
