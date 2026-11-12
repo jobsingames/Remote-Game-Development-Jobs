@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Game Development Jobs — 2026
 
-<sub><small>Last updated: Nov 11, 2026 at 19:33 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
 
 Daily remote game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs).
@@ -32,16 +32,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-application-security-engineer-62213ad6?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Application Security Engineer](https://jobsingames.com/jobs/playstation-senior-application-security-engineer-62213ad6?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 27 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-materials-level-artist-f2fb9b8f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Materials Level Artist](https://jobsingames.com/jobs/playstation-senior-materials-level-artist-f2fb9b8f?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Canada, Remote | Remote | Full Time | Oct 22 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-principal-tpm-gso-studio-enablement-9cb0cf83?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Principal TPM - GSO Studio Enablement](https://jobsingames.com/jobs/playstation-principal-tpm-gso-studio-enablement-9cb0cf83?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 21 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-staff-software-engineer-data-1a062702?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Staff Software Engineer – Data](https://jobsingames.com/jobs/playstation-staff-software-engineer-data-1a062702?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 16 |
 
 ---
 
-**Current Stats:** 21 jobs | 100% remote | 8 companies | 0 salary ranges listed
+**Current Stats:** 20 jobs | 100% remote | 8 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-11 archive](archive/2026-11-11.md)
+- [2026-11-12 archive](archive/2026-11-12.md)
 
 ## About This Repository
 
