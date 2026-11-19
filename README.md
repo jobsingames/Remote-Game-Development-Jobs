@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Game Development Jobs — 2026
 
-<sub><small>Last updated: Nov 18, 2026 at 20:27 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2026 at 20:30 UTC</small></sub>
 
 Daily remote game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs).
@@ -26,19 +26,16 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[tobspr games](https://jobsingames.com/jobs/tobspr-games-principal-c-engineer-60f2285e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Principal C++ Engineer](https://jobsingames.com/jobs/tobspr-games-principal-c-engineer-60f2285e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
 | **[SOFTGAMES](https://jobsingames.com/jobs/softgames-freelance-sound-designer-project-based-fully-remote-76ee4397?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Freelance Sound Designer (Project Based) - Fully Remote](https://jobsingames.com/jobs/softgames-freelance-sound-designer-project-based-fully-remote-76ee4397?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
 | **[Deck13 Interactive GmbH](https://jobsingames.com/jobs/deck13-interactive-gmbh-qa-tester-56367d38?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[QA Tester](https://jobsingames.com/jobs/deck13-interactive-gmbh-qa-tester-56367d38?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
-| **[Voodoo](https://jobsingames.com/jobs/voodoo-senior-system-designer-mob-control-b8e808cc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior System Designer - Mob Control](https://jobsingames.com/jobs/voodoo-senior-system-designer-mob-control-b8e808cc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
-| **[Voodoo](https://jobsingames.com/jobs/voodoo-gameplay-and-ui-developer-paper-io2-82060b81?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Gameplay & UI Developer - Paper.io2](https://jobsingames.com/jobs/voodoo-gameplay-and-ui-developer-paper-io2-82060b81?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
 | **[thatgamecompany](https://jobsingames.com/jobs/thatgamecompany-project-manager-creative-services-contract-99c72ce3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Project Manager, Creative Services (Contract)](https://jobsingames.com/jobs/thatgamecompany-project-manager-creative-services-contract-99c72ce3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - US | Remote | Contract | Oct 28 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-application-security-engineer-62213ad6?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Application Security Engineer](https://jobsingames.com/jobs/playstation-senior-application-security-engineer-62213ad6?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Oct 27 |
 
 ---
 
-**Current Stats:** 18 jobs | 100% remote | 8 companies | 0 salary ranges listed
+**Current Stats:** 15 jobs | 100% remote | 8 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-18 archive](archive/2026-11-18.md)
+- [2026-11-19 archive](archive/2026-11-19.md)
 
 ## About This Repository
 
