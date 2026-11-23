@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Game Development Jobs — 2026
 
-<sub><small>Last updated: Nov 22, 2026 at 19:32 UTC</small></sub>
+<sub><small>Last updated: Nov 23, 2026 at 23:49 UTC</small></sub>
 
 Daily remote game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs).
@@ -21,16 +21,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-systems-engineer-2da78688?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Systems Engineer](https://jobsingames.com/jobs/playstation-senior-systems-engineer-2da78688?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Nov 5 |
 | **[thatgamecompany](https://jobsingames.com/jobs/thatgamecompany-trust-and-safety-analyst-contract-3a64d0c5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Trust and Safety Analyst (Contract)](https://jobsingames.com/jobs/thatgamecompany-trust-and-safety-analyst-contract-3a64d0c5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - US | Remote | Contract | Nov 3 |
 | **[tobspr games](https://jobsingames.com/jobs/tobspr-games-level-designer-d632e436?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Level Designer](https://jobsingames.com/jobs/tobspr-games-level-designer-d632e436?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Nov 1 |
-| **[weltenbauer. Software Entwicklung GmbH](https://jobsingames.com/jobs/weltenbauer-software-entwicklung-gmbh-producer-7cbf93c4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Producer](https://jobsingames.com/jobs/weltenbauer-software-entwicklung-gmbh-producer-7cbf93c4?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Oct 29 |
 
 ---
 
-**Current Stats:** 10 jobs | 100% remote | 5 companies | 0 salary ranges listed
+**Current Stats:** 9 jobs | 100% remote | 4 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-22 archive](archive/2026-11-22.md)
+- [2026-11-23 archive](archive/2026-11-23.md)
 
 ## About This Repository
 
