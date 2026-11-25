@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Game Development Jobs — 2026
 
-<sub><small>Last updated: Nov 24, 2026 at 22:21 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2026 at 21:38 UTC</small></sub>
 
 Daily remote game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-fp-and-a-manager-operations-7751fe87?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[FP&A Manager, Operations](https://jobsingames.com/jobs/playstation-fp-and-a-manager-operations-7751fe87?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | USA-Remote Based | Remote | Full Time | Nov 25 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-sr-payroll-operations-specialist-e9b688c3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Sr. Payroll Operations Specialist](https://jobsingames.com/jobs/playstation-sr-payroll-operations-specialist-e9b688c3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Nov 9 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-commercial-manager-bf6db97b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Commercial Manager](https://jobsingames.com/jobs/playstation-commercial-manager-bf6db97b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | United States, Remote | Remote | Full Time | Nov 9 |
 | **[tobspr games](https://jobsingames.com/jobs/tobspr-games-senior-networking-engineer-816a701e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | **[Senior Networking Engineer](https://jobsingames.com/jobs/tobspr-games-senior-networking-engineer-816a701e?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs)** | Remote - Germany | Remote | Full Time | Nov 8 |
@@ -24,12 +25,12 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 ---
 
-**Current Stats:** 9 jobs | 100% remote | 4 companies | 0 salary ranges listed
+**Current Stats:** 10 jobs | 100% remote | 4 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-24 archive](archive/2026-11-24.md)
+- [2026-11-25 archive](archive/2026-11-25.md)
 
 ## About This Repository
 
