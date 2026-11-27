@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Game Development Jobs — 2026
 
-<sub><small>Last updated: Nov 26, 2026 at 21:27 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2026 at 21:10 UTC</small></sub>
 
 Daily remote game development jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-game-dev-jobs).
@@ -30,7 +30,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-26 archive](archive/2026-11-26.md)
+- [2026-11-27 archive](archive/2026-11-27.md)
 
 ## About This Repository
 
